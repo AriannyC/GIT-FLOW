@@ -2,6 +2,7 @@
 
 
 
+
 #galeria .col-lg-4{
     margin: 0 !important;
     padding: 25px;
@@ -15,6 +16,7 @@
     box-shadow: 0 0 15px rgba(0,0,0,0.3);
     cursor: pointer;
 }
+
 
 #galeria img:hover{
     border: 5px solid #f7f7f7;
