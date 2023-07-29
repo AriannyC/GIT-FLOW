@@ -1,0 +1,28 @@
+
+
+
+
+#galeria .col-lg-4{
+    margin: 0 !important;
+    padding: 25px;
+}
+
+#galeria img{
+    width: 100%;
+    height: 250px;
+    background-color: #ffffff;
+    padding: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+
+#galeria img:hover{
+    border: 5px solid #f7f7f7;
+}
+
+body{
+    background-color: #838cf2;
+}
+#Modal-galeria .modal-img{
+    width: 100%;
+}
